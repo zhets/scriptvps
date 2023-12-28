@@ -69,7 +69,7 @@
        "streamSettings":{
          "network": "ws",
             "wsSettings": {
-                "path": "/vmess"
+                "path": "/xdxl-store"
            }
          }
        },
